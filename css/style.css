@@ -7,24 +7,32 @@ body {
     border: solid;
 }
 
+.info {
+    text-align: center;
+}
+
 .subtitulo {
+    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
 }
 
 .descripcion {
-    display: inline-block;
+    display: flex;
+    align-items: center;
+    text-align: center;
     padding-left: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.enlace_redes {
+.info {
+    display: flex;
     text-decoration: none;
 }
 
 .seccion {
     border: solid;
-    padding: 20px;
+    padding: 25px;
 }
 
 img.foto_perfil {
