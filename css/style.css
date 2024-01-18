@@ -27,12 +27,8 @@ body {
     padding: 20px;
 }
 
-.foto_perfil {
-    width: 10%;
-    margin: 0 auto;
-}
-
 img.foto_perfil {
+    width: 10%;
     border-radius: 100%;
     border: solid;
 }
