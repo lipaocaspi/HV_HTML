@@ -4,6 +4,7 @@ body {
 
 .fondo {
     background-color: rgb(252, 252, 252);
+    padding: 0.5%;
 }
 
 table {
@@ -71,7 +72,7 @@ div.foto_perfil {
 .containerP {
     background-color: #f4f4f4;
     border-radius: 10px;
-    padding: 10px;
+    padding: 14px;
 }
 
 .seccion {
@@ -79,5 +80,5 @@ div.foto_perfil {
 }
 
 img.logos {
-    width: 7%;
+    width: 7.5%;
 }
