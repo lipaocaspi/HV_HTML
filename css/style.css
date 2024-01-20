@@ -35,12 +35,29 @@ div.foto_perfil {
     font-weight: bold;
 }
 
+.containerP {
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    padding: 14px;
+}
+
 .texto {
-    text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 15px;
 }
 
+.link {
+    text-decoration: none;
+    color: black;
+}
+
+.negrilla {
+    font-weight: bold;
+}
+
+.stack {
+    display: inline-block;
+}
 
 .descripcion {
     display: inline-block;
@@ -50,35 +67,10 @@ div.foto_perfil {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.stack {
-    display: inline-block;
-}
-
-.info {
-    text-align: center;
-}
-
-.texto {
-    text-align: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 15px;
-}
-
-.desc {
-    text-decoration: none;
-    color: black;
-}
-
-.containerP {
-    background-color: #f4f4f4;
-    border-radius: 10px;
-    padding: 14px;
-}
-
 .seccion {
     padding: 25px;
 }
 
-img.logos {
+.logos {
     width: 7.5%;
 }
